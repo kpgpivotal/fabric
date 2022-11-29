@@ -14,8 +14,17 @@
             "001"
         ],
         "transientData": {
-            "privateValue": "some value"
-        }
+
+            "make": "Audi",
+      
+            "model": "Q7",
+      
+            "color": "Red",
+      
+            "dealerName": "Dealer-1"
+      
+          }
+        
     },
     {
         "transactionName": "readOrder",
